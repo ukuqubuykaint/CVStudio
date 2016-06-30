@@ -27,3 +27,6 @@ watcher.on('ready', () => {
 
 _handleSCSS();
 
+function _processFile(filePath, watchEvent) {
+    
+    if (!READY) {
