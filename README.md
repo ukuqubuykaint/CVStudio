@@ -17,3 +17,5 @@
 
 To begin using this template, choose one of the following options to get started:
 
+* [Download the latest release on Walid Boussou](https://cvstudio.com/theme/cvstudio/)
+* Install via npm: `npm i CVStudio`
