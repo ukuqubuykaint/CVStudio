@@ -21,3 +21,6 @@ To begin using this template, choose one of the following options to get started
 * Install via npm: `npm i CVStudio`
 * Clone the repo: `git clone https://github.com/CVStudio/CVStudio.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/CVStudio/CVStudio)
+
+## Usage
+
