@@ -5,3 +5,4 @@ const browserSyncPath = upath.resolve(upath.dirname(__filename), '../node_module
 
 concurrently([
     { command: 'node --inspect scripts/sb-watch.js', name: 'SB_WATCH', prefixColor: 'bgBlue.bold' },
+    { 
