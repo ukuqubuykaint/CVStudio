@@ -10,3 +10,4 @@ module.exports = function renderPug(filePath) {
     const srcPath = upath.resolve(upath.dirname(__filename), '../src');
 
     console.log(`### INFO: Rendering ${filePath} to ${destPath}`);
+    const html = pug.renderFile(filePath, {
