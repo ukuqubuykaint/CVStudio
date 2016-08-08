@@ -13,3 +13,5 @@
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
     "description": "CV Studio is a Medium inspired blog theme for Bootstrap.",
+    "keywords": [
+        "css",
