@@ -11,3 +11,5 @@ module.exports = function renderPug(filePath) {
 
     console.log(`### INFO: Rendering ${filePath} to ${destPath}`);
     const html = pug.renderFile(filePath, {
+        doctype: 'html',
+        filename: filePath,
