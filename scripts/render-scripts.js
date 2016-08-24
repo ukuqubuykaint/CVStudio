@@ -10,3 +10,5 @@ module.exports = function renderScripts() {
     const destPath = upath.resolve(upath.dirname(__filename), '../dist/.');
     
     sh.cp('-R', sourcePath, destPath)
+
+    const sourcePathScriptsJS = upath.resolve(upath.dirname(__filename), '../src/js/scripts.js');
