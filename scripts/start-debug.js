@@ -9,3 +9,4 @@ concurrently([
         command: `${browserSyncPath} dist -w --no-online`,
         name: 'SB_BROWSER_SYNC', 
         prefixColor: 'bgBlue.bold',
+    }
