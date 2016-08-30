@@ -12,3 +12,4 @@ const destPath = upath.resolve(upath.dirname(__filename), '../dist/css/styles.cs
 
 module.exports = function renderSCSS() {
     
+    const results = sass.renderSync({
