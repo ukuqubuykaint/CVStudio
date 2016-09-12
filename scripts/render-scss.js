@@ -16,3 +16,7 @@ module.exports = function renderSCSS() {
         data: entryPoint,
         includePaths: [
             upath.resolve(upath.dirname(__filename), '../node_modules')
+        ],
+      });
+
+    const destPathDirname = upath.dirname(destPath);
