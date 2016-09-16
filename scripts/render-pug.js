@@ -16,3 +16,4 @@ module.exports = function renderPug(filePath) {
         basedir: srcPath
     });
 
+    const destPathDirname = upath.dirname(destPath);
