@@ -11,3 +11,5 @@ concurrently([
         prefixColor: 'bgGreen.bold',
     }
 ], {
+    prefix: 'name',
+    killOthers: ['failure', 'success'],
