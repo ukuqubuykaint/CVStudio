@@ -4,3 +4,4 @@ const upath = require('upath');
 const sh = require('shelljs');
 
 module.exports = function renderAssets() {
+    const sourcePath = upath.resolve(upath.dirname(__filename), '../src/assets');
