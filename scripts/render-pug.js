@@ -20,3 +20,6 @@ module.exports = function renderPug(filePath) {
     if (!sh.test('-e', destPathDirname)) {
         sh.mkdir('-p', destPathDirname);
     }
+
+    const prettified = prettier.format(html, {
+        printWidth: 1000,
