@@ -17,3 +17,5 @@ module.exports = function renderScripts() {
     const copyright = `/*!
 * Walid Boussou - ${packageJSON.title} v${packageJSON.version} (${packageJSON.homepage})
 * Copyright 2013-${new Date().getFullYear()} ${packageJSON.author}
+* Licensed under ${packageJSON.license} (https://github.com/CVStudio/${packageJSON.name}/blob/master/LICENSE)
+*/
