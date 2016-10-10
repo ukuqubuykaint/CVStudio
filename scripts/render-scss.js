@@ -32,3 +32,6 @@ module.exports = function renderSCSS() {
     })
 
 };
+
+const entryPoint = `/*!
+* Walid Boussou - ${packageJSON.title} v${packageJSON.version} (${packageJSON.homepage})
