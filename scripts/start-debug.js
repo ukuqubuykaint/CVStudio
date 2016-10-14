@@ -15,3 +15,4 @@ concurrently([
     killOthers: ['failure', 'success'],
 }).then(success, failure);
 
+function success() {
