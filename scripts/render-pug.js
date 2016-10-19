@@ -26,3 +26,6 @@ module.exports = function renderPug(filePath) {
         tabWidth: 4,
         singleQuote: true,
         proseWrap: 'preserve',
+        endOfLine: 'lf',
+        parser: 'html',
+        htmlWhitespaceSensitivity: 'ignore'

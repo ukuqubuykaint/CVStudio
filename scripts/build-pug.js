@@ -13,3 +13,4 @@ function _processFile(filePath) {
         && !filePath.match(/include/)
         && !filePath.match(/mixin/)
         && !filePath.match(/\/pug\/layouts\//)
+    ) {
