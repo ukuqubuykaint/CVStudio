@@ -46,3 +46,7 @@ If you aren't using SB Forms, simply delete the custom data attributes from the 
 closing `</body>` tag to SB Forms.
 
 #### npm Scripts
+
+* `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+* `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+* `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
