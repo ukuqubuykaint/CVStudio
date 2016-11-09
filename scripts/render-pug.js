@@ -30,3 +30,5 @@ module.exports = function renderPug(filePath) {
         parser: 'html',
         htmlWhitespaceSensitivity: 'ignore'
     });
+
+    fs.writeFileSync(destPath, prettified);
