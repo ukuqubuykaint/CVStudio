@@ -12,3 +12,5 @@ window.addEventListener('DOMContentLoaded', () => {
                 console.log(123);
                 mainNav.classList.remove('is-visible', 'is-fixed');
             }
+        } else {
+            // Scrolling Down
