@@ -19,3 +19,4 @@ function success() {
     console.log('Success');    
 }
 
+function failure() {
