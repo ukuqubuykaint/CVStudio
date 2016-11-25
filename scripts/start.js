@@ -20,3 +20,4 @@ function success() {
 }
 
 function failure() {
+    console.log('Failure');
