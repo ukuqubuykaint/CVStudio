@@ -50,3 +50,5 @@ function _processFile(filePath, watchEvent) {
             return _handleSCSS(filePath, watchEvent);
         }
         return;
+    }
+
