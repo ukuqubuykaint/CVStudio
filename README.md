@@ -54,3 +54,6 @@ closing `</body>` tag to SB Forms.
 * `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
 * `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
 * `npm run start:debug` runs the project in debug mode
+* `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
+
+You must have npm installed in order to use this build environment.
