@@ -53,3 +53,7 @@ function _processFile(filePath, watchEvent) {
     }
 
     if (filePath.match(/src\/js\//)) {
+        return renderScripts();
+    }
+
+    if (filePath.match(/src\/assets\//)) {
