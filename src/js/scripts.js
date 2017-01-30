@@ -14,3 +14,4 @@ window.addEventListener('DOMContentLoaded', () => {
             }
         } else {
             // Scrolling Down
+            mainNav.classList.remove(['is-visible']);
