@@ -63,3 +63,7 @@ html(lang='en')
                                         data-sb-validations='required,email'
                                     )
                                     label(for='email') Email address
+                                    .invalid-feedback(data-sb-feedback='email:required')
+                                        | An email is required.
+                                    .invalid-feedback(data-sb-feedback='email:email')
+                                        | Email is not valid.
