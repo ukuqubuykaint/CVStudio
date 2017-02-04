@@ -59,3 +59,4 @@ function _processFile(filePath, watchEvent) {
     if (filePath.match(/src\/assets\//)) {
         return renderAssets();
     }
+
