@@ -64,3 +64,5 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## About
 
+Walid Boussou is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Walid Boussou are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
