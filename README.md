@@ -62,3 +62,5 @@ You must have npm installed in order to use this build environment.
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/CVStudio/CVStudio/issues) here on GitHub or leave a comment on the [template overview page at Walid Boussou](https://cvstudio.com/theme/cvstudio/).
 
+## About
+

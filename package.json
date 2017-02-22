@@ -44,3 +44,5 @@
         "chokidar": "3.5.3",
         "concurrently": "6.3.0",
         "postcss": "8.4.21",
+        "prettier": "2.8.6",
+        "pug": "3.0.2",
