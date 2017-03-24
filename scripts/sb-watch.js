@@ -60,3 +60,4 @@ function _processFile(filePath, watchEvent) {
         return renderAssets();
     }
 
+}
