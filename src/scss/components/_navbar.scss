@@ -69,3 +69,5 @@
     // Styling for the JS behavior of the navbar
 
     @include media-breakpoint-up(lg) {
+        -webkit-transition: background-color 0.2s;
+        -moz-transition: background-color 0.2s;
