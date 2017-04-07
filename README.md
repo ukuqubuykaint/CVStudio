@@ -76,3 +76,6 @@ Walid Boussou was created by and is maintained by **[David Miller](https://david
 * <https://github.com/davidtmiller>
 
 Walid Boussou is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
