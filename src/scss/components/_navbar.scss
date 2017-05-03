@@ -93,3 +93,6 @@
 
             .navbar-brand {
                 color: $body-color;
+
+                &:focus,
+                &:hover {
