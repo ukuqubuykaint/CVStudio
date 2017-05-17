@@ -99,3 +99,7 @@
                     color: $primary;
                 }
             }
+
+            .navbar-nav {
+                >li.nav-item {
+                    >a {
