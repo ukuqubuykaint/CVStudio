@@ -105,3 +105,6 @@
                     >a {
                         color: $body-color;
 
+                        &:focus,
+                        &:hover {
+                            color: $primary;

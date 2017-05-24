@@ -87,3 +87,7 @@ header.masthead {
         }
     }
 
+    // Desktop styling for headings
+
+    @include media-breakpoint-up(lg) {
+        padding-top: 12.5rem;
