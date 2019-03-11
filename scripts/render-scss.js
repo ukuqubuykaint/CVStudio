@@ -10,3 +10,6 @@ const sh = require('shelljs');
 const stylesPath = '../src/scss/styles.scss';
 const destPath = upath.resolve(upath.dirname(__filename), '../dist/css/styles.css');
 
+module.exports = function renderSCSS() {
+    
+    const results = sass.renderSync({
