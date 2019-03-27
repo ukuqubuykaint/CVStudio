@@ -13,3 +13,4 @@ module.exports = function renderPug(filePath) {
     const html = pug.renderFile(filePath, {
         doctype: 'html',
         filename: filePath,
+        basedir: srcPath
