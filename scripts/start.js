@@ -8,3 +8,5 @@ concurrently([
     { 
         command: `"${browserSyncPath}" --reload-delay 2000 --reload-debounce 2000 dist -w --no-online`,
         name: 'SB_BROWSER_SYNC', 
+        prefixColor: 'bgGreen.bold',
+    }
