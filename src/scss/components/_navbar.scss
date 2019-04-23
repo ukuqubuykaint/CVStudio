@@ -36,3 +36,7 @@
         }
     }
 
+    // Desktop only styling for the navbar
+    // Set to large breakpoint and up (this should always match the .navbar-expand-* class
+
+    @include media-breakpoint-up(lg) {
