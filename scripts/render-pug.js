@@ -14,3 +14,5 @@ module.exports = function renderPug(filePath) {
         doctype: 'html',
         filename: filePath,
         basedir: srcPath
+    });
+
