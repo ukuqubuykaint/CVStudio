@@ -41,3 +41,6 @@
 
     @include media-breakpoint-up(lg) {
         border-bottom: $border-width solid transparent;
+        background: transparent;
+
+        .navbar-brand {
