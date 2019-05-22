@@ -24,3 +24,6 @@
         color: $gray-900;
 
         &:focus,
+        &:hover {
+            text-decoration: none;
+            color: $primary;
