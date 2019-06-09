@@ -10,3 +10,4 @@ concurrently([
         name: 'SB_BROWSER_SYNC', 
         prefixColor: 'bgBlue.bold',
     }
+], {
