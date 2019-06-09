@@ -24,3 +24,6 @@ watcher.on('ready', () => {
     READY = true;
     console.log(' READY TO ROLL!');
 });
+
+_handleSCSS();
+
