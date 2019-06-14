@@ -25,3 +25,7 @@ module.exports = function renderSCSS() {
     }
 
     postcss([ autoprefixer ]).process(results.css, {from: 'styles.css', to: 'styles.css'}).then(result => {
+        result.warnings().forEach(warn => {
+            console.warn(warn.toString())
+        })
+        fs.writeFileSync(destPath, result.css.toString());
