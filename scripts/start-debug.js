@@ -11,3 +11,4 @@ concurrently([
         prefixColor: 'bgBlue.bold',
     }
 ], {
+    prefix: 'name',
