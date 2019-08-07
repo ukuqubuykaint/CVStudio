@@ -19,3 +19,6 @@ module.exports = function renderPug(filePath) {
     const destPathDirname = upath.dirname(destPath);
     if (!sh.test('-e', destPathDirname)) {
         sh.mkdir('-p', destPathDirname);
+    }
+
+    const prettified = prettier.format(html, {

@@ -11,3 +11,5 @@ window.addEventListener('DOMContentLoaded', () => {
             } else {
                 console.log(123);
                 mainNav.classList.remove('is-visible', 'is-fixed');
+            }
+        } else {
