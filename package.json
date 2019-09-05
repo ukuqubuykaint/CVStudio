@@ -21,3 +21,7 @@
         "theme",
         "template"
     ],
+    "homepage": "https://cvstudio.com/theme/cvstudio",
+    "bugs": {
+        "url": "https://github.com/CVStudio/CVStudio/issues",
+        "email": "feedback@cvstudio.com"

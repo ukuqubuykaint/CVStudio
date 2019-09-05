@@ -29,3 +29,5 @@ module.exports = function renderSCSS() {
             console.warn(warn.toString())
         })
         fs.writeFileSync(destPath, result.css.toString());
+    })
+
