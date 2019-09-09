@@ -22,3 +22,4 @@ module.exports = function renderPug(filePath) {
     }
 
     const prettified = prettier.format(html, {
+        printWidth: 1000,
