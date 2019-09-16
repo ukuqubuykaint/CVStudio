@@ -10,3 +10,6 @@ body {
 
 // Set horizontal rule color to border color
 
+hr {
+    border-color: $border-color;
+    opacity: 1;
