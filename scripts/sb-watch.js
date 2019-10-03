@@ -38,3 +38,4 @@ function _processFile(filePath, watchEvent) {
         process.stdout.write('.');
         return;
     }
+
