@@ -35,3 +35,4 @@ function _processFile(filePath, watchEvent) {
                 allPugFiles[filePath] = true;
             }    
         }    
+        process.stdout.write('.');
