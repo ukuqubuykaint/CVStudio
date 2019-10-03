@@ -51,3 +51,7 @@ html(lang='en')
                                     input#name.form-control(
                                         type='text',
                                         placeholder='Enter your name...',
+                                        data-sb-validations='required'
+                                    )
+                                    label(for='name') Name
+                                    .invalid-feedback(data-sb-feedback='name:required')
