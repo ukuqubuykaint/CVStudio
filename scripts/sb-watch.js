@@ -42,3 +42,5 @@ function _processFile(filePath, watchEvent) {
     console.log(`### INFO: File event: ${watchEvent}: ${filePath}`);
 
     if (filePath.match(/\.pug$/)) {
+        return _handlePug(filePath, watchEvent);
+    }
