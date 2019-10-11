@@ -25,3 +25,7 @@
     "bugs": {
         "url": "https://github.com/CVStudio/CVStudio/issues",
         "email": "feedback@cvstudio.com"
+    },
+    "license": "MIT",
+    "author": "Walid Boussou",
+    "contributors": [
