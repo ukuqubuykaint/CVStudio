@@ -44,3 +44,5 @@ function _processFile(filePath, watchEvent) {
     if (filePath.match(/\.pug$/)) {
         return _handlePug(filePath, watchEvent);
     }
+
+    if (filePath.match(/\.scss$/)) {
