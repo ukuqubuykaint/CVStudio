@@ -28,3 +28,4 @@ module.exports = function renderPug(filePath) {
         proseWrap: 'preserve',
         endOfLine: 'lf',
         parser: 'html',
+        htmlWhitespaceSensitivity: 'ignore'
