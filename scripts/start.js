@@ -12,3 +12,4 @@ concurrently([
     }
 ], {
     prefix: 'name',
+    killOthers: ['failure', 'success'],
