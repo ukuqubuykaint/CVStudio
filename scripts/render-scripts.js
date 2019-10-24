@@ -20,3 +20,5 @@ module.exports = function renderScripts() {
 * Licensed under ${packageJSON.license} (https://github.com/CVStudio/${packageJSON.name}/blob/master/LICENSE)
 */
 `
+    const scriptsJS = fs.readFileSync(sourcePathScriptsJS);
+    
