@@ -57,3 +57,7 @@
                 >a.nav-link {
                     color: $white;
 
+                    &:focus,
+                    &:hover {
+                        color: fade-out($white, .2);
+                    }
