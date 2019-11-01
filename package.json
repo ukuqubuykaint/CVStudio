@@ -32,3 +32,5 @@
         "David Miller (https://davidmiller.io/)"
     ],
     "repository": {
+        "type": "git",
+        "url": "https://github.com/CVStudio/CVStudio.git"

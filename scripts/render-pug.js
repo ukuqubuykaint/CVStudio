@@ -29,3 +29,5 @@ module.exports = function renderPug(filePath) {
         endOfLine: 'lf',
         parser: 'html',
         htmlWhitespaceSensitivity: 'ignore'
+    });
+
