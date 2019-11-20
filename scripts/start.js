@@ -13,3 +13,4 @@ concurrently([
 ], {
     prefix: 'name',
     killOthers: ['failure', 'success'],
+}).then(success, failure);

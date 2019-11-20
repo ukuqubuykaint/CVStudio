@@ -34,3 +34,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/CVStudio/CVStudio.git"
+    },
+    "dependencies": {
+        "bootstrap": "5.2.3"
