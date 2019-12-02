@@ -38,3 +38,4 @@ const entryPoint = `/*!
 * Copyright 2013-${new Date().getFullYear()} ${packageJSON.author}
 * Licensed under ${packageJSON.license} (https://github.com/CVStudio/${packageJSON.name}/blob/master/LICENSE)
 */
+@import "${stylesPath}"
