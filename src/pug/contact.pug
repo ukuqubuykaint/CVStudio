@@ -61,3 +61,7 @@ html(lang='en')
                                         type='email',
                                         placeholder='Enter your email...',
                                         data-sb-validations='required,email'
+                                    )
+                                    label(for='email') Email address
+                                    .invalid-feedback(data-sb-feedback='email:required')
+                                        | An email is required.
