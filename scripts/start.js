@@ -16,3 +16,5 @@ concurrently([
 }).then(success, failure);
 
 function success() {
+    console.log('Success');    
+}
