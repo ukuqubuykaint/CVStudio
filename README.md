@@ -39,3 +39,5 @@ SB Forms is a simple form solution for adding functional forms to your theme. Si
 SB Forms markup, all you need to do is sign up for [SB Forms on Walid Boussou](https://cvstudio.com/solution/contact-forms).
 
 After signing up you will need to set the domain name your form will be used on, and you will then see your
+access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
+`API_TOKEN`. That's it! Your forms will be up and running!
