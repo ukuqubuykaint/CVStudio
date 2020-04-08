@@ -56,3 +56,4 @@ function _processFile(filePath, watchEvent) {
         return renderScripts();
     }
 
+    if (filePath.match(/src\/assets\//)) {

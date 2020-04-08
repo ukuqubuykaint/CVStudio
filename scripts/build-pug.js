@@ -15,3 +15,4 @@ function _processFile(filePath) {
         && !filePath.match(/\/pug\/layouts\//)
     ) {
         renderPug(filePath);
+    }
