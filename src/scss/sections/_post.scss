@@ -49,3 +49,7 @@
 
         >a {
             text-decoration: none;
+        }
+    }
+
+    @include media-breakpoint-up(lg) {
