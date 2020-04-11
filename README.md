@@ -42,3 +42,4 @@ After signing up you will need to set the domain name your form will be used on,
 access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
 `API_TOKEN`. That's it! Your forms will be up and running!
 
+If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
