@@ -62,3 +62,5 @@ function _processFile(filePath, watchEvent) {
 
 }
 
+function _handlePug(filePath, watchEvent) {
+    if (watchEvent === 'change') {
