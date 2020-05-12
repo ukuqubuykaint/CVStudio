@@ -69,3 +69,4 @@ function _handlePug(filePath, watchEvent) {
         }
         return renderPug(filePath);
     }
+    if (!filePath.match(/includes/) && !filePath.match(/mixins/) && !filePath.match(/\/pug\/layouts\//)) {
