@@ -102,3 +102,7 @@
 
             .navbar-nav {
                 >li.nav-item {
+                    >a {
+                        color: $body-color;
+
+                        &:focus,
