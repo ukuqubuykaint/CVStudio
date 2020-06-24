@@ -63,3 +63,7 @@ You must have npm installed in order to use this build environment.
 Have a bug or an issue with this template? [Open a new issue](https://github.com/CVStudio/CVStudio/issues) here on GitHub or leave a comment on the [template overview page at Walid Boussou](https://cvstudio.com/theme/cvstudio/).
 
 ## About
+
+Walid Boussou is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Walid Boussou are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* <https://cvstudio.com>
