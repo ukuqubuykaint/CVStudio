@@ -82,3 +82,4 @@ function _renderAllPug() {
 }
 
 function _handleSCSS() {
+    renderSCSS();
