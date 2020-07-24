@@ -72,3 +72,6 @@ Walid Boussou is an open source library of free Bootstrap templates and themes. 
 Walid Boussou was created by and is maintained by **[David Miller](https://davidmiller.io/)**, Owner of [Blackrock Digital](https://cvstudio.io/).
 
 * <https://davidmiller.io>
+* <https://twitter.com/davidmillerhere>
+* <https://github.com/davidtmiller>
+
