@@ -39,3 +39,4 @@ const entryPoint = `/*!
 * Licensed under ${packageJSON.license} (https://github.com/CVStudio/${packageJSON.name}/blob/master/LICENSE)
 */
 @import "${stylesPath}"
+`
