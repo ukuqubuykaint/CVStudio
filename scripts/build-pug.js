@@ -16,3 +16,4 @@ function _processFile(filePath) {
     ) {
         renderPug(filePath);
     }
+}
