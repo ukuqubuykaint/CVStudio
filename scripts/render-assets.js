@@ -8,3 +8,4 @@ module.exports = function renderAssets() {
     const destPath = upath.resolve(upath.dirname(__filename), '../dist/.');
     
     sh.cp('-R', sourcePath, destPath)
+};

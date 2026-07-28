@@ -23,3 +23,4 @@ module.exports = function renderScripts() {
     const scriptsJS = fs.readFileSync(sourcePathScriptsJS);
     
     fs.writeFileSync(destPathScriptsJS, copyright + scriptsJS);
+};
