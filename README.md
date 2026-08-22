@@ -79,3 +79,4 @@ Walid Boussou is based on the [Bootstrap](https://getbootstrap.com/) framework c
 
 ## Copyright and License
 
+Copyright 2013-2023 Walid Boussou LLC. Code released under the [MIT](https://github.com/CVStudio/CVStudio/blob/master/LICENSE) license.
