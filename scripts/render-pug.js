@@ -32,3 +32,4 @@ module.exports = function renderPug(filePath) {
     });
 
     fs.writeFileSync(destPath, prettified);
+};
