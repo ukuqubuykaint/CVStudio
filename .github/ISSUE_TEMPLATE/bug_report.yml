@@ -1,0 +1,11 @@
+name: Bug report
+about: Something renders or behaves wrongly
+title: "bug: "
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes: {label: What happened}
+  - type: input
+    id: where
+    attributes: {label: Page or view}
