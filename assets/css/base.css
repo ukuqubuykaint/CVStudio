@@ -1,0 +1,4 @@
+/* normalise stray values before they reach layout */
+:root { --max-read: 46rem; }
+img, video { max-width: 100%; height: auto; }
+table { border-collapse: collapse; width: 100%; }
