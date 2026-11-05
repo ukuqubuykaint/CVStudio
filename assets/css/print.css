@@ -1,0 +1,6 @@
+@media print {
+  .site-header { border: 0; padding-top: 1rem; }
+  .print-btn { display: none; }
+  h2 { display: block !important; break-after: avoid; }
+  .site-footer { display: none; }
+}

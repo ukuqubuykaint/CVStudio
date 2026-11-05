@@ -1,0 +1,4 @@
+:root{--ink:#111827;--line:#e5e7eb;--accent:#2563eb;}
+
+.print-btn { margin-top:1rem; padding:.5rem .9rem; border:1px solid var(--line); background:#fff; color:var(--ink); border-radius:.4rem; cursor:pointer; }
+.print-btn:hover { border-color:var(--accent); color:var(--accent); }
