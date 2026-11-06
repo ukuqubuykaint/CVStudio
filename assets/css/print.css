@@ -1,0 +1,4 @@
+@media print {
+  h2 { display: block !important; break-after: avoid; }
+  .site-footer { display: none; }
+}
