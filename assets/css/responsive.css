@@ -1,0 +1,4 @@
+@media (max-width: 359px) {
+  .timeline li { display: block; }
+  .timeline li strong { display: block; margin-bottom: .25rem; }
+}
